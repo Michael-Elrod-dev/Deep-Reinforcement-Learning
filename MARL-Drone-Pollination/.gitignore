@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# wandb directory
+wandb/
+
+# Temporary metrics directory
+temp_metrics/
